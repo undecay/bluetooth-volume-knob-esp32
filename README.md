@@ -14,7 +14,7 @@ This project turns a standard mechanical rotary encoder into a Bluetooth Low Ene
   - Micro-USB or USB-C cable for power
   - Breadboard
 
-//Wiring Diagram (.kicad file included in repository)
+//Wiring Diagram
   Rotary Encoder
   - CLK --> D22
   - DT --> D21
