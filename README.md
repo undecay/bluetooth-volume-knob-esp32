@@ -12,6 +12,7 @@ This project turns a standard mechanical rotary encoder into a Bluetooth Low Ene
   - EC11 Rotary Encoder with push switch
   - Breadboard and jumper wires
   - Micro-USB or USB-C cable for power
+  - Breadboard
 
 //Wiring Diagram (.kicad file included in repository)
   Rotary Encoder
